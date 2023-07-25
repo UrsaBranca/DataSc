@@ -1,0 +1,13 @@
+*.md
+*Part 1.ipynb
+*Part 2.ipynb
+Practice/Pr_M3_L3_1 (Multi-Class Classification)/vehicles - Practice Code Part 1.ipynb
+Practice/Pr_M3_L3_1 (Multi-Class Classification)/vehicles - Practice Code Part 2.ipynb
+Practice/Pr_M3_L3_2 (Multi-Class Classification)/vehicles - short version - Practice Code Part 1.ipynb
+Practice/Pr_M3_L3_2 (Multi-Class Classification)/vehicles - short version - Practice Code Part 2.ipynb
+Test_folder/
+abbreviations.csv
+abs.csv
+Test.ipynb
+LR_Scikit-Learn/article/
+__MACOSX
