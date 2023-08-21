@@ -17,7 +17,6 @@ from sklearn.svm import SVC
 import warnings
 warnings.filterwarnings('ignore')
 
-
 def target_attributes_counts(dataset):
     """ Basic descriptions of the target attribute.
     
@@ -27,7 +26,7 @@ def target_attributes_counts(dataset):
     Parameters:
         dataset.
     """
-    plt.figure(figsize=(50,3))
+    plt.figure(figsize=(5,3))
     print("'Class' Value Counts: "+" \n", dataset['Class'].value_counts())
     print("\n Visualisation plot: "+" \n", dataset['Class'].value_counts().plot(x = dataset['Class'], kind='bar'))
    
